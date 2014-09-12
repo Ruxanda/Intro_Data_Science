@@ -1,6 +1,4 @@
-# **Assignments for Intro to Data Science class**
-
-## **(R code)**
+# **Assignments for Intro Data Science class (R code)**
 
 ## *HOMEWORK 1:*
 
