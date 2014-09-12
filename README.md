@@ -1,5 +1,3 @@
-Intro_Data_Science
-==================
 # **Assigments for Intro to Data Science class (R code)**
 
 ## *HOMEWORK 1:*
