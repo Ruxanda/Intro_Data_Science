@@ -4,7 +4,7 @@
 
     * Scrape UFO data and clean it
     * Exploratory data analysis
-    * Plotting and mapping
+    * Plotting and Mapping
 
 ## *PROJECT 2:*
 
@@ -37,7 +37,7 @@
     * NY Times API
     * Naive Bayes Model (Bernoulli):
          * write Bayes code - no packages
-         * experiment with different values for alpha and beta
+         * experiment with different values for Alpha and Beta
          * rank words by predicting power
 
 
