@@ -39,5 +39,3 @@
          * write Bayes code - no packages
          * experiment with different values for Alpha and Beta
          * rank words by predicting power
-
-
