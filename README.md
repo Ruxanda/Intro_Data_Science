@@ -15,6 +15,7 @@
     * Linear Models
     * K-Means
     * Hardigans Rule
+    * Gap Statistics
 
 ## *PROJECT 3:*
 
